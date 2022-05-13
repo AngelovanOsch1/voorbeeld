@@ -1,0 +1,18 @@
+.blok-position {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.blok-position .blokje {
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+}
